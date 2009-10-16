@@ -8,13 +8,13 @@
 Summary:	Easy-to-use date/time formatting
 Summary(pl.UTF-8):	Łatwe w użyciu formatowanie daty/czasu
 Name:		perl-Time-Format
-Version:	1.02
+Version:	1.11
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic	
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Time/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	f19a947ae3c2490a3edc9ca859ec43b3
+# Source0-md5:	20b6f13b67c6840a0527a6597c9861b2
 URL:		http://search.cpan.org/dist/Time-Format/
 BuildRequires:	perl-DateTime
 BuildRequires:	perl-Date-Manip
