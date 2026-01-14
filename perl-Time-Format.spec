@@ -8,7 +8,7 @@ Summary:	Easy-to-use date/time formatting
 Summary(pl.UTF-8):	Łatwe w użyciu formatowanie daty/czasu
 Name:		perl-Time-Format
 Version:	1.11
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic	
 Group:		Development/Languages/Perl
